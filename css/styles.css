@@ -146,7 +146,8 @@ body {
 
 .primary-button:hover,
 .primary-button:focus {
-    background-color: var(--accent-color);
+    background-color: var(--primary-white-color);
+    color: var(--accent-color);
 }
 
 .portfolio-button {
