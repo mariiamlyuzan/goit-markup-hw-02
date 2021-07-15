@@ -144,6 +144,11 @@ body {
     cursor: pointer;
 }
 
+.primary-button:hover,
+.primary-button:focus {
+    background-color: var(--accent-color);
+}
+
 .portfolio-button {
     color: var(--primary-title-color);
     background-color: #F5F4FA;
